@@ -1,7 +1,7 @@
 title: Ran (Green) Guo
-description: The site for my AOS C111 project.
+description: Welcome!
 logo: /assets/IMG/template_logo.png
-show_downloads: true
+show_downloads: false
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
