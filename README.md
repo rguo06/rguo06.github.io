@@ -2,10 +2,6 @@
   <img src="/assets/IMG/dragon_fire.png" width="250" height="250">
 </p>
 
-<p align="center">
-  <strong>Here is my AOS C111 project</strong>
-</p>
-
 <h2 align="center">Customer Churn Classification</h2>
 
 <p align="center">
