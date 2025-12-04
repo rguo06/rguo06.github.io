@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/assets/IMG/dragon_fire.png" width="250" height="250">
+  <img src="/assets/IMG/dragon_fire.png" width="280" height="250">
 </p>
 
 <h2 align="center">Customer Churn Classification</h2>
