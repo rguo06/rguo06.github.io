@@ -2,8 +2,6 @@
 
 <img src="/assets/IMG/dragon_fire.png" width="250" height="250">
 
-### Here is my AOS C111 project  
-
 ## Customer Churn Classification  
 
 <img src="/assets/IMG/garfield.png" width="330" height="200">
